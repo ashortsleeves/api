@@ -53,3 +53,5 @@ Check out some awesome projects made by our community!
   The Galactic Wide Web - a discord bot
 - [helldivers-2/api-wrapper](https://github.com/helldivers-2/api-wrapper)
   Typescript client code generated from OpenAPI
+- [ashortsleeves/heckdivers](https://github.com/ashortsleeves/heckdivers)
+  A live desktop background for Wallpaper Engine.
